@@ -1,0 +1,39 @@
+body {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.content {
+width:80%;
+margin: 0 auto;
+}
+
+nav ul {
+display: flex;
+justify-content: flex-end;
+}
+
+nav ul li {
+list-style: none;
+}
+
+nav ul li a {
+text-decoration: none;
+color: black;
+padding-left: 20px;
+}
+
+nav ul li a:hover {
+color: #36963a;
+}
+
+
+#introduction img {
+width: 100%;
+}
+
+footer {
+color: white;
+padding: 20px, 0;
+background-color: #36963a
+
+}
